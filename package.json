@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/jest": "^30",
-    "@types/node": "^24",
+    "@types/node": "^26",
     "@types/shelljs": "^0.8.5",
     "@vercel/ncc": "^0.44.1",
     "jest": "^30",
